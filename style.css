@@ -987,3 +987,57 @@ footer {
 #contact {
   scroll-margin-top: 40px;
 }
+.contact-card {
+  background: var(--card);
+  border: 2px solid var(--border);
+  border-radius: 24px;
+  padding: 24px;
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  gap: 18px;
+  align-items: center;
+  box-shadow: var(--shadow);
+}
+
+.profile-wrap {
+  border: 5px solid #9ee3eb;
+  border-radius: 18px;
+  padding: 7px;
+  background: var(--soft);
+}
+
+.profile-wrap img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 12px;
+}
+/* Additional Website Work alignment fix */
+
+.more-grid .project-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.more-grid .project-top {
+  min-height: 52px;
+  align-items: flex-start;
+}
+
+.more-grid .project-top span {
+  max-width: 145px;
+  line-height: 1.35;
+}
+
+.more-grid .project-top a {
+  margin-left: auto;
+}
+
+.more-grid .project-image {
+  height: 150px;
+  margin-top: 12px;
+}
+
+.more-grid .project-card h3 {
+  min-height: 30px;
+}
