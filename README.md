@@ -1,29 +1,61 @@
-# Muhammad Saifullah Portfolio
+# Muhammad Saifullah — WordPress Developer Portfolio
 
-This is my personal developer portfolio project.
+A responsive professional portfolio built to showcase my WordPress, Elementor, CMS website support, SEO content support, website QA, and frontend development practice.
 
-I am building this portfolio to practice real frontend development workflow using HTML, CSS, JavaScript, Git, and GitHub.
+## Live Portfolio
 
-## Current Skills
+[View Live Portfolio](https://pinkpoo.github.io/saifullah-portfolio/)
 
-- WordPress
-- Elementor
-- Website Support
-- Basic SEO
-- Website QA
-- HTML
-- CSS
-- JavaScript Basics
+## About
 
-## Learning Goals
+I am a WordPress Developer and CMS Website Support candidate based in Bangkok, Thailand. I build and support WordPress, Elementor, and CMS websites through responsive page updates, content improvements, basic SEO, website QA, and client-focused website support.
 
-- Git and GitHub workflow
-- JavaScript
-- React
-- Frontend debugging
-- API integration
-- Building real frontend projects
+I am open to WordPress Developer, Website Support, CMS Assistant, SEO Content, Internship, and Freelance roles.
 
-## Project Status
+## Featured Work
 
-This portfolio is currently in progress.
+* Eurosemis — Technical WordPress product/catalog website
+* EmpowerMeTech — Education and career-growth WordPress website
+* Trial Flames — WordPress support, blog/content, and SEO updates
+* ZM Traders PK — WordPress e-commerce/trading-style website
+* Elite Jobs — WordPress job-board customization
+* Seigel Law — Legal website content and QA collaboration
+* Irshad Tech — Archived portfolio website proof
+* Travfey — Travel/service website support proof
+
+## Skills
+
+* WordPress
+* Elementor
+* Elementor Pro
+* ACF / Custom Fields
+* WooCommerce
+* WPBakery
+* Yoast SEO
+* Rank Math SEO
+* Website QA
+* Responsive layout checks
+* Content updates
+* Basic SEO
+* Shopify/CMS basics
+* HTML
+* CSS
+* JavaScript basics
+* Git and GitHub
+
+## What This Project Demonstrates
+
+* Responsive portfolio design
+* Real project showcase with screenshots
+* Git and GitHub workflow
+* GitHub Pages deployment
+* HTML and CSS structure
+* JavaScript copy-email interaction
+* Professional website presentation for job applications
+
+## Contact
+
+Email: [smsaif404@gmail.com](mailto:smsaif404@gmail.com)
+Location: Bangkok, Thailand
+GitHub: https://github.com/pinkpoo
+LinkedIn: https://www.linkedin.com/in/muhammad-saifullah-8a2a783a8
