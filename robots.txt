@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mosaifdev.github.io/saifullah-portfolio/sitemap.xml
